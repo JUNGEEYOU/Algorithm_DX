@@ -1,11 +1,10 @@
-
-import java.util.Scanner;
-import java.io.FileInputStream;
 /*
- 단순 2진 암호코드
+ 암호코드 스캔
  */
+import java.util.Scanner;
 
-class Solution_1240
+
+class Solution_1242
 {
     public static void main(String args[]) throws Exception
     {

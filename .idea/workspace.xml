@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bee1d319-05eb-4a26-825d-fdf62b834787" name="Changes" comment="feature NEW commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitmask/bitmask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitmask/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitmask/src/Solution_1240.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="bee1d319-05eb-4a26-825d-fdf62b834787" name="Changes" comment="feature NEW bitmask">
+      <change afterPath="$PROJECT_DIR$/bitmask/src/Solution_1242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitmask/src/Solution_1288.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitmask/src/Solution_1240.java" beforeDir="false" afterPath="$PROJECT_DIR$/bitmask/src/Solution_1240.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658219178701</updated>
       <workItem from="1658219180145" duration="61000" />
-      <workItem from="1658219254684" duration="615000" />
+      <workItem from="1658219254684" duration="3035000" />
     </task>
     <task id="LOCAL-00001" summary="feature NEW commit">
       <created>1658219522377</created>
@@ -62,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658219522377</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feature NEW bitmask">
+      <created>1658219880180</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658219880180</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feature NEW commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature NEW commit" />
+    <MESSAGE value="feature NEW bitmask" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature NEW bitmask" />
   </component>
 </project>

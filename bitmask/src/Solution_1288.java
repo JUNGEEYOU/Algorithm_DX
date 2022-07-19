@@ -1,11 +1,13 @@
-
-import java.util.Scanner;
-import java.io.FileInputStream;
 /*
- 단순 2진 암호코드
- */
+  새로운 불면증 치료법
 
-class Solution_1240
+  ㅠ  N의 배수 번호인 양을 세기
+
+ */
+import java.util.Scanner;
+
+
+class Solution_1288
 {
     public static void main(String args[]) throws Exception
     {
@@ -19,9 +21,10 @@ class Solution_1240
 
         for(int test_case = 1; test_case <= T; test_case++)
         {
+            int n = sc.nextInt();
+            int result = 0;
 
-
-
+            System.out.printf("#%d %d", test_case, result);
         }
     }
 }
