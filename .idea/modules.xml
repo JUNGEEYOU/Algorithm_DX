@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm_DX.iml" filepath="$PROJECT_DIR$/Algorithm_DX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitmask/bitmask.iml" filepath="$PROJECT_DIR$/bitmask/bitmask.iml" />
     </modules>
   </component>
 </project>
