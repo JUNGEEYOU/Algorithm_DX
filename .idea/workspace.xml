@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bee1d319-05eb-4a26-825d-fdf62b834787" name="Changes" comment="feature NEW bitmask">
-      <change afterPath="$PROJECT_DIR$/bitmask/src/Solution_1242.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitmask/src/Solution_1288.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitmask/src/Solution_10726.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitmask/src/Solution_1240.java" beforeDir="false" afterPath="$PROJECT_DIR$/bitmask/src/Solution_1240.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitmask/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/bitmask/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/jungee-yoo/JavaProjects/Algorithm_DX",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,6 +47,20 @@
       <recent name="" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Solution_10726" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_10726" />
+      <module name="bitmask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution_10726" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,6 +71,7 @@
       <updated>1658219178701</updated>
       <workItem from="1658219180145" duration="61000" />
       <workItem from="1658219254684" duration="3035000" />
+      <workItem from="1658237434751" duration="4002000" />
     </task>
     <task id="LOCAL-00001" summary="feature NEW commit">
       <created>1658219522377</created>
@@ -93,5 +108,16 @@
     <MESSAGE value="feature NEW commit" />
     <MESSAGE value="feature NEW bitmask" />
     <option name="LAST_COMMIT_MESSAGE" value="feature NEW bitmask" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/bitmask/src/Solution_10726.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
