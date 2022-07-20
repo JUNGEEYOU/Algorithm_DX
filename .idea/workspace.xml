@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bee1d319-05eb-4a26-825d-fdf62b834787" name="Changes" comment="feature NEW bitmask">
-      <change afterPath="$PROJECT_DIR$/bitmask/src/Solution_10726.java" afterDir="false" />
+    <list default="true" id="bee1d319-05eb-4a26-825d-fdf62b834787" name="Changes" comment="add 10726 solution">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitmask/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/bitmask/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitmask/src/Solution_1288.java" beforeDir="false" afterPath="$PROJECT_DIR$/bitmask/src/Solution_1288.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution_1288">
     <configuration name="Solution_10726" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution_10726" />
       <module name="bitmask" />
@@ -55,8 +55,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_1288" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_1288" />
+      <module name="bitmask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_1288" />
         <item itemvalue="Application.Solution_10726" />
       </list>
     </recent_temporary>
@@ -71,7 +79,7 @@
       <updated>1658219178701</updated>
       <workItem from="1658219180145" duration="61000" />
       <workItem from="1658219254684" duration="3035000" />
-      <workItem from="1658237434751" duration="4002000" />
+      <workItem from="1658237434751" duration="7215000" />
     </task>
     <task id="LOCAL-00001" summary="feature NEW commit">
       <created>1658219522377</created>
@@ -87,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658219880180</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add 10726 solution">
+      <created>1658242691612</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658242691613</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +122,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feature NEW commit" />
     <MESSAGE value="feature NEW bitmask" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature NEW bitmask" />
+    <MESSAGE value="add 10726 solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 10726 solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
